@@ -18,4 +18,15 @@ Firstly, you have to have these programmes installed and ready to use:
 
  ## Objective
  The objective of this tutorial is to set the scene (add the players, ball, platform and the walls), add rigid body, physics, trigger and components to the objects as well as the Player C# script
+
+ ## Setting the project
+
+ ## Setting up the scene
+ This is how I would like the scene to look before adding any code
  
+ ![Capture](https://github.com/user-attachments/assets/04d04eaf-27c9-4f76-966f-0c6459acd62a)
+
+ In this scene, we have 4 cubes (2 players and 2 walls), 1 sphere (ball) and 1 plane (platform where everything is going to be on)
+
+ 
+
