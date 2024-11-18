@@ -33,6 +33,13 @@ After adjusting the objects, create an empty object and group them
 As you can see in the picture, I named it Pong, but it is really up to your preference
 ![naming_the_object](https://github.com/user-attachments/assets/c88cf460-8c7e-474b-a4d9-02ce3b08d460)
 
+In order for our project to be clear and organised, I suggest putting all the assets that we have made to the project in the assets area so it is easier to select them when 
+![Assets](https://github.com/user-attachments/assets/4668723e-9ca8-48ea-b36b-e3f657b00b13)
+
+Perfect, now that we have set the scene, it is time to do some coding fot the player!
+
+
+
 
 
 
