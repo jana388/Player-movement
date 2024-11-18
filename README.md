@@ -57,7 +57,20 @@ Perfect, now that we have set the scene, it is time to do some coding for the pl
 
 ## Coding the player
 
-Press on the Cube to select and in the Inspector we will 
+This will be a simple code for moving the player left and right using A and D keys.
+This script is not only going to move our player but also the computer as well. 
+
+There are a few ways to add a script and assign it to a object. One way is to go to the assets (scripts), right click to Create and press on C# script. Afterwards drag it to the object you want to assign to in this case to both of the cubes.
+The other way is to select the object, go to the inspector and add a component (new script). Either way, make sure to change the name of the scripts immediatelly because if you wish to alter it afterwards, you will also need to rename it in the Visual Studio. I will name the script Player , since we want to code 
+Having made the script and assigned it to both cubes, open the script in Microsoft Visual Studio by pressing the script.
+
+When we open a script, this is what is shown in the editor.
+
+![basic editor view](https://github.com/user-attachments/assets/b05163fe-4e1b-4bab-b238-d769c5cc7303)
+Since our code is simple, we will not need these two lines. How do we know that? When we see the lines are not showing their bold colour (the opacity is lower than the rest of the lines in the script), and if we hower with the mouse a yellow light will pop up saying that it is not neccessary for the script.
+
+![Deleting unneccesary bs](https://github.com/user-attachments/assets/f32d982d-513f-4440-a9a0-a6f29b2417df)
+
 
 
 
