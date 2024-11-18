@@ -71,6 +71,8 @@ Since our code is simple, we will not need these two lines. How do we know that?
 
 ![Deleting unneccesary bs](https://github.com/user-attachments/assets/f32d982d-513f-4440-a9a0-a6f29b2417df)
 
+![Screenshot (2)](https://github.com/user-attachments/assets/78ca6014-de3c-4310-84b1-97689f016318)
+This is what will be shown, when the line is not needed for the code to run
 
 
 
