@@ -29,6 +29,7 @@ Firstly, you have to have these programmes installed and ready to use:
 After adjusting the objects, create an empty object and group them
 
 ![Empty_object](https://github.com/user-attachments/assets/fea401d3-4cc0-46dd-9264-cc55dffe99d3)
+
 As you can see in the picture, I named it Pong, but it is really up to your preference
 ![naming_the_object](https://github.com/user-attachments/assets/c88cf460-8c7e-474b-a4d9-02ce3b08d460)
 
