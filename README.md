@@ -25,11 +25,12 @@ Firstly, you have to have these programmes installed and ready to use:
  This is how I would like the scene to look before adding any code
  ![setting_up_the_scene](https://github.com/user-attachments/assets/422b71d4-5c47-4094-8781-3327f1ea89ff)
 
-
  In this scene, we have 4 cubes (2 players and 2 walls), 1 sphere (ball) and 1 plane (platform where everything is going to be on)
 After adjusting the objects, create an empty object and group them
+
 ![Empty_object](https://github.com/user-attachments/assets/fea401d3-4cc0-46dd-9264-cc55dffe99d3)
-I named it Pong, but it is really up to your preference.
+As you can see in the picture, I named it Pong, but it is really up to your preference.
+![naming the object](https://github.com/user-attachments/assets/fea9f336-68fd-4406-95be-691100d69d1f)
 
 
 
