@@ -30,7 +30,8 @@ After adjusting the objects, create an empty object and group them
 
 ![Empty_object](https://github.com/user-attachments/assets/fea401d3-4cc0-46dd-9264-cc55dffe99d3)
 As you can see in the picture, I named it Pong, but it is really up to your preference
-![naming the object](https://github.com/user-attachments/assets/26de7d29-b68e-4f64-8fe8-2c320ccc8ed0)
+![naming_the_object](https://github.com/user-attachments/assets/c88cf460-8c7e-474b-a4d9-02ce3b08d460)
+
 
 
 
