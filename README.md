@@ -23,15 +23,18 @@ Firstly, you have to have these programmes installed and ready to use:
  ## Setting the project
 
  - Open Unity
- 
-
+ - Select a project (whether you want it to be 2D or 3D)
+ - Name it
+ - 
  ## Making the player
+
+ Firstly we have our Unity Project open. I have chosen a 3D project, so the scene will be in 3D as well as the player. I have named my project TutorialPlayer Movement,but feel free to name it by your liking.
+ After followoing these steps, this is what it should look like
  
+ ![Opening_Unity](https://github.com/user-attachments/assets/5913fa76-6129-4fe2-acf3-f0772ea6e09c)
 
 
-Then we will select the cube and in the Inspector we will add a box collider which will later enable the cube to detect the ball when it hits it. 
 
-![Box_collider](https://github.com/user-attachments/assets/febc4cad-7f94-4262-96c0-1be3dcf2b5be)
 
 
 
