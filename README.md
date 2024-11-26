@@ -4,7 +4,7 @@ In this tutorial I will teach you how to move your player on X axis (left and ri
 This code is written in C# and it is suitable for both 2D and 3D game
 
 ## Prerequisites
-Although this tutorial is beginner friendly, there are some prerequisites to complete this without getting confused mid way through
+Although this tutorial is beginner friendly, there are some prerequisites to complete this without getting confused mid way through.
 Firstly, you have to have these programmes installed and ready to use: 
 - Unity
 - Microsoft Visual Studio 2022
@@ -77,7 +77,19 @@ Perfect! Now we are able to access the Player by clicking it either in the Hiera
 
 ![Cube_seen_in_the_scene](https://github.com/user-attachments/assets/a56ab2d3-3bf4-416e-b37c-ad678de9d3ce)
 
+This is what the Player will look like in the scene.
+We can see where it is, as well as the way it is facing us by an X, Y, Z arrows. X (according to the main camera) can move the Player left and right, Z back and forth, and Y axis up and down. 
+The Sun above the player shows us where the Directional Light is.
 
+Lastly, we can see the Player in the Inspector
+
+![Player_in_inspector](https://github.com/user-attachments/assets/c77fc515-309d-4d3b-aee8-a5550f434423)
+
+Inspector is used for modifying anything to the object, some of the exaples are:
+- Adding tags (used for identifying the object in code)
+- Transforming the object - positioning it on XYZ axis (shortcut on keyboard W), rotating in in different angles (shortcut E), scaling the object in either in width X axis, height Y axis and thickness in Z axis (shortcut R)
+- Adding materials
+- Adding components like colliders , psysics and most importantly C# scripts
 
 
 
