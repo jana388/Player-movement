@@ -25,7 +25,7 @@ Firstly, you have to have these programmes installed and ready to use:
  - Open Unity
  - Select a project (whether you want it to be 2D or 3D)
  - Name it
- - 
+   
  ## Setting the scene
 
  Firstly we have our Unity Project open. I have chosen a **3D project**, so the scene will be in 3D as well as the player. I have named my project TutorialPlayer Movement,but feel free to name it by your liking.
@@ -59,6 +59,20 @@ But for now, we want to create a **3D object**! When we drag over a 3D object, a
 Now that we have added a cube, this is what will be shown in the hierarchy.
 
 ![Cube_seen_in_the_hierarchy](https://github.com/user-attachments/assets/63ab4222-4d5f-4d90-9eca-3dcdc00adbcb)
+
+Since we have it here, it is easy to access it anytime you need it.
+To make it more clear what it is, we will rename it to **Player**.
+Go to the Cube, right click on the object and a tab will show up. Left click on the Rename and simply type in Player.
+
+![Screenshot_(7)](https://github.com/user-attachments/assets/c2962baf-c457-4b57-8263-5fdf31edb987)
+
+This is what it should look like!
+After typing it in, I suggest moving it to the assets so the Project can look more organised and we can access the **Player** more easily!
+We can simply left click on the Player in the **Hierarchy**, hold the left click and drag it to **Assets**
+
+
+
+
 
 
 
