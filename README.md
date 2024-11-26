@@ -56,6 +56,10 @@ But for now, we want to create a 3D object! When we drag over a 3D object, a sub
 
 ![Creating_a_cube](https://github.com/user-attachments/assets/05e2409d-c24f-4e53-add6-ede1a6d04499)
 
+Now that we have added a cube, this is what will be shown in the hierarchy.
+
+![Cube_seen_in_the_hierarchy](https://github.com/user-attachments/assets/63ab4222-4d5f-4d90-9eca-3dcdc00adbcb)
+
 
 
 ## Coding the player
