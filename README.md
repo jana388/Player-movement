@@ -45,9 +45,10 @@ Once we cleared this out, return back to the scene and let's add the player!
 
 ## Adding the player
 
-We can go to hierarchy and right click in the gray area
-Then a menu will pop up which contains many objects that are useful for the game.
-For example, use Create Empty (an empty object) can be used as a folder when making a game to organise a scene, to manage scripts in the scene or simply an invisible area that (with the help of code) will be able to recongnise a trigger and do something in the game. Shortly said, it is quite a useful and versatile object. 
+We can go to hierarchy and right click in the gray area.
+Then a context menu will pop up which contains many objects that are useful for the game.
+For example, use Create Empty (an empty object) can be used as a folder when making a game to organise a scene, to manage scripts in the scene or simply an invisible area that (with the help of code) will be able to recongnise a trigger and do something in the game. Shortly said, it is quite an adaptable object. Besides that, we have Effects, Light, Audio, UI... (which are all useful in making a game)
+But for now, we want to create a 3D object! When we drag over a 3D object, a sub menu will open which will show us a list of list of object we would like to add to the scene. It does not really matter which one would you like to use, since it will not affect the code, but I will be using a cube. 
 
 
 
