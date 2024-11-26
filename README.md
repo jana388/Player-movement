@@ -31,7 +31,12 @@ Firstly, you have to have these programmes installed and ready to use:
  Firstly we have our Unity Project open. I have chosen a 3D project, so the scene will be in 3D as well as the player. I have named my project TutorialPlayer Movement,but feel free to name it by your liking.
  After followoing these steps, this is what it should look like
  
- ![Opening_Unity](https://github.com/user-attachments/assets/5913fa76-6129-4fe2-acf3-f0772ea6e09c)
+ ![Opening_Unity (1)](https://github.com/user-attachments/assets/f69e46e2-e52b-43b6-ad16-f19f85cff36b)
+
+ Great! So now we have our 3D project open and we can see all the information we have that will be useful for us. 
+ On the left hand top corner you can see the name of the project, as well as the version of Unity I have used.
+ Then we have a sample scene which will contain everything that is used in our scene. However we can always add and remove stuff from it. So far we have a Main camera and Directional Light
+ Then we can see that we are in scene mode, which enables us to edit and move when the game is not running (which is the mode you can enter by pressing on the Game mode and pressing the play button).
 
 
 
