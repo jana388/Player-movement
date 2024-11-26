@@ -69,6 +69,15 @@ Go to the Cube, right click on the object and a tab will show up. Left click on 
 This is what it should look like!
 After typing it in, I suggest moving it to the assets so the Project can look more organised and we can access the **Player** more easily!
 We can simply left click on the Player in the **Hierarchy**, hold the left click and drag it to **Assets**
+The picture will show you what it looks like.
+
+![Screenshot_(8)](https://github.com/user-attachments/assets/efe90b79-3263-4d81-a528-12f24eb620c8)
+
+Perfect! Now we are able to access the Player by clicking it either in the Hierarchy, Assets, or in the Scenes!
+
+![Cube_seen_in_the_scene](https://github.com/user-attachments/assets/a56ab2d3-3bf4-416e-b37c-ad678de9d3ce)
+
+
 
 
 
