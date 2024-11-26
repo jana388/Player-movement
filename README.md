@@ -26,7 +26,7 @@ Firstly, you have to have these programmes installed and ready to use:
  - Select a project (whether you want it to be 2D or 3D)
  - Name it
  - 
- ## Making the player
+ ## Setting the scene
 
  Firstly we have our Unity Project open. I have chosen a 3D project, so the scene will be in 3D as well as the player. I have named my project TutorialPlayer Movement,but feel free to name it by your liking.
  After followoing these steps, this is what it should look like
@@ -41,7 +41,13 @@ Firstly, you have to have these programmes installed and ready to use:
 ![Game_mode](https://github.com/user-attachments/assets/02465de9-7935-4f34-8486-f18bde105f40)
 
 Ofcfourse, now when we press play, nothing will happen since the scene is empty and we have no scripts running. But we still hace the Diredtional Light working and are only able to see from the main camera point of view (whereas in the Scene mode, we can move our viewpoint).
+Once we cleared this out, return back to the scene and let's add the player!
 
+## Adding the player
+
+We can go to hierarchy and right click in the gray area
+Then a menu will pop up which contains many objects that are useful for the game.
+For example, use Create Empty (an empty object) can be used as a folder when making a game to organise a scene, to manage scripts in the scene or simply an invisible area that (with the help of code) will be able to recongnise a trigger and do something in the game. Shortly said, it is quite a useful and versatile object. 
 
 
 
