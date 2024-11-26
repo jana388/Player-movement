@@ -28,7 +28,7 @@ Firstly, you have to have these programmes installed and ready to use:
  - 
  ## Setting the scene
 
- Firstly we have our Unity Project open. I have chosen a 3D project, so the scene will be in 3D as well as the player. I have named my project TutorialPlayer Movement,but feel free to name it by your liking.
+ Firstly we have our Unity Project open. I have chosen a **3D project**, so the scene will be in 3D as well as the player. I have named my project TutorialPlayer Movement,but feel free to name it by your liking.
  After followoing these steps, this is what it should look like
  
  ![Opening_Unity (1)](https://github.com/user-attachments/assets/f69e46e2-e52b-43b6-ad16-f19f85cff36b)
@@ -40,19 +40,19 @@ Firstly, you have to have these programmes installed and ready to use:
  
 ![Game_mode](https://github.com/user-attachments/assets/02465de9-7935-4f34-8486-f18bde105f40)
 
-Ofcfourse, now when we press play, nothing will happen since the scene is empty and we have no scripts running. But we still hace the Diredtional Light working and are only able to see from the main camera point of view (whereas in the Scene mode, we can move our viewpoint).
+Ofcourse, now when we press play, nothing will happen since the scene is empty and we have no scripts running. But we still hace the Diredtional Light working and are only able to see from the main camera point of view (whereas in the Scene mode, we can move our viewpoint).
 Once we cleared this out, return back to the scene and let's add the player!
 
 ## Adding the player
 
-We can go to hierarchy and right click in the gray area.
+We can go to **Hierarchy** and right click in the gray area.
 Then a context menu will pop up which contains many objects that are useful for the game.
 
 ![Creating_a_3D_object](https://github.com/user-attachments/assets/d5f56e1e-1f66-4c8c-b42c-ed867d363a4b)
 
 
-For example, use Create Empty (an empty object) can be used as a folder when making a game to organise a scene, to manage scripts in the scene or simply an invisible area that (with the help of code) will be able to recongnise a trigger and do something in the game. Shortly said, it is quite an adaptable object. Besides that, we have Effects, Light, Audio, UI... (which are all useful in making a game)
-But for now, we want to create a 3D object! When we drag over a 3D object, a sub menu will open which will show us a list of list of object we would like to add to the scene. It does not really matter which one would you like to use, since it will not affect the code, but I will be using a cube. 
+For example, use **Create Empty** (an empty object) can be used as a folder when making a game to organise a scene, to manage scripts in the scene or simply an invisible area that (with the help of code) will be able to recongnise a trigger and do something in the game. Shortly said, it is quite an adaptable object. Besides that, we have Effects, Light, Audio, UI... (which are all useful in making a game)
+But for now, we want to create a **3D object**! When we drag over a 3D object, a sub menu will open which will show us a list of list of object we would like to add to the scene. It does not really matter which one would you like to use, since it will not affect the code, but I will be using a cube. 
 
 ![Creating_a_cube](https://github.com/user-attachments/assets/05e2409d-c24f-4e53-add6-ede1a6d04499)
 
