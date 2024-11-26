@@ -36,9 +36,11 @@ Firstly, you have to have these programmes installed and ready to use:
  Great! So now we have our 3D project open and we can see all the information we have that will be useful for us. 
  On the left hand top corner you can see the name of the project, as well as the version of Unity I have used.
  Then we have a sample scene which will contain everything that is used in our scene. However we can always add and remove stuff from it. So far we have a Main camera and Directional Light
- Then we can see that we are in scene mode, which enables us to edit and move when the game is not running (which is the mode you can enter by pressing on the Game mode and pressing the play button).
+ Then we can see that we are in scene mode, which enables us to edit the scene and move through the scene when the game is not running. Game mode can be accessed when pressing the Game mode button with the joystick icon and pressing the play button.
+ 
+![Game_mode](https://github.com/user-attachments/assets/02465de9-7935-4f34-8486-f18bde105f40)
 
-
+Ofcfourse, now when we press play, nothing will happen since the scene is empty and we have no scripts running. But we still hace the Diredtional Light working and are only able to see from the main camera point of view (whereas in the Scene mode, we can move our viewpoint).
 
 
 
