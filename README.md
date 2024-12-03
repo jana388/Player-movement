@@ -94,7 +94,7 @@ Inspector is used for modifying anything to the object, some of the exaples are:
 We  will add the C# script to the player now, if you understood all the steps until now, you are ready for our next step!
 
 
-## Coding the player
+## Making the script
 
 This will be a simple code for moving the player left and right using A and D keys.
 This script will enable us to move the player on an X axis . 
@@ -104,8 +104,26 @@ There are a few ways to add a script and assign it to a object. One way is to go
 It is useful to name a script before adding it to the object! If you add the script to the object and then opt to change the name of the script, you will need to change the name in the Microsoft Visual Studio as well. Avoiding this or forgetting this will lead to confusion. 
 You can name the script however you like, (preferably associated to the object), but keep in mind that you cannot use space between the words (use the Camel Case). More explanation on the casing options visit this webpage on [Casing terminology](https://unity.com/how-to/naming-and-code-style-tips-c-scripting-unity) .
 
+To sum it up, it is helpful to name a script in order to navigate through your project (especially helpful when you have more scripts in your project). Do it before adding it to the object and do not use spaces when naming it!
 
-the This is especially helpful when you have more scripts in your project. I suggest naming the script drag it to the object you want to assign to in this case to both of the cubes.
+The other way is to go to the |Inspector, go to Add Component, left click on it, scroll all the way down or type in the search tab **New Script**. The naming process goes the same.
+
+Both ways are correct!
+
+![Screenshot (9)](https://github.com/user-attachments/assets/fb1345e6-1975-409f-8f36-b574f3df32b9)
+
+I have named it PlayerMovement like shown in the picture.
+
+If you have made the script, you are free to proceed with the tutorial!
+
+## Coding the Player
+
+The next step will be openning the script! You just double left click on the script and Microsoft Visual Studio will open.
+
+
+
+
+
 
 
 The other way is to select the object, go to the inspector and add a component (new script). Either way, make sure to change the name of the scripts immediatelly because if you wish to alter it afterwards, you will also need to rename it in the Visual Studio. I will name the script Player , since we want to code 
