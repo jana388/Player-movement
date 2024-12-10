@@ -152,6 +152,12 @@ Now with the player selected, you will find some new fields in the scripts compo
 
 They can be visible in the inspector because we set them to public. This makes it more simple for us because we can always adjust this and play with it!
 
+![Capture5](https://github.com/user-attachments/assets/232e1357-716b-47f5-b074-473bbd2cf76a)
+
+As I said, you can set everything to your liking, but I have set the speed to 5, D key for right button and A key for the left one.
+Having changed that, the game is still not complete, and if you enter play mode, nothing will happen.
+
+
 
 
 
