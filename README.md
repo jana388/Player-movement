@@ -160,7 +160,33 @@ Having changed that, the game is still not complete, and if you enter play mode,
 If you have successfully adjusted the speed and the controlls it is time to proceed to the editor.
 Now we need to do 2 things:
 -reference to the **Rigidbody**
--detect player input (*if we press right, the player moves right, if we press left, the player goes to the left*)
+-detect player input (*if we press right, the player moves right, if we press left, the player goes to the left, and if we press nothing, the player stops moving*)
+
+**Rigidbody**
+
+Go back to our script and add private Rigidbody
+
+![Capture6](https://github.com/user-attachments/assets/25d11bbe-cffd-49ce-b51d-649d522213bc)
+
+And then in the start method we add the rigidbody. 
+
+![Capture7](https://github.com/user-attachments/assets/55c46bf9-cd36-4b11-bab4-b2df922460a9)
+
+GetComponent will get the RigidBody from the game object
+
+**Player Input**
+
+For this we will go to the Update method and create a bool for the input.
+we will make two bools, one for the right and one for the left control.
+
+![Capture8](https://github.com/user-attachments/assets/581368f0-4421-4424-9402-be9a52f686d3)
+
+
+
+
+
+
+
 
 
 
