@@ -155,7 +155,12 @@ They can be visible in the inspector because we set them to public. This makes i
 ![Capture5](https://github.com/user-attachments/assets/232e1357-716b-47f5-b074-473bbd2cf76a)
 
 As I said, you can set everything to your liking, but I have set the speed to 5, D key for right button and A key for the left one.
-Having changed that, the game is still not complete, and if you enter play mode, nothing will happen.
+Having changed that, the game is still not complete, and if you enter play mode, nothing will happen. 
+
+If you have successfully adjusted the speed and the controlls it is time to proceed to the editor.
+Now we need to do 2 things:
+-reference to the **Rigidbody**
+-detect player input (*if we press right, the player moves right, if we press left, the player goes to the left*)
 
 
 
