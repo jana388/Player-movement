@@ -118,28 +118,23 @@ If you have made the script, you are free to proceed with the tutorial!
 
 ## Coding the Player
 
-The next step will be openning the script! You just double left click on the script and Microsoft Visual Studio will open.
-
-
-
-
-
-
-
-The other way is to select the object, go to the inspector and add a component (new script). Either way, make sure to change the name of the scripts immediatelly because if you wish to alter it afterwards, you will also need to rename it in the Visual Studio. I will name the script Player , since we want to code 
+- The next step will be openning the script! You just double left click on the script and Microsoft Visual Studio will open.
+- The other way is to select the object, go to the inspector and add a component (new script). Either way, make sure to change the name of the scripts immediatelly because if you wish to alter it afterwards, you will also need to rename it in the Visual Studio. I will name the script Player , since we want to code 
 Having made the script and assigned it to both cubes, open the script in Microsoft Visual Studio by pressing the script.
 
 When we open a script, this is what is shown in the editor.
 
 ![basic editor view](https://github.com/user-attachments/assets/b05163fe-4e1b-4bab-b238-d769c5cc7303)
 
-Since our code is simple, we will not need . How do we know that? When we see the lines are not showing their bold colour (the opacity is lower than the rest of the lines in the script), and if we hower with the mouse a yellow light will pop up saying that it is not neccessary for the script.
+This is what the editor should look like without entering any code.
+We have got a few things to explain before changing anything in the editor.
 
-![Deleting unneccesary bs](https://github.com/user-attachments/assets/f32d982d-513f-4440-a9a0-a6f29b2417df)
+![basic_editor_view](https://github.com/user-attachments/assets/c68463b3-579d-48ab-bb8c-7eead5fdc29b)
 
-![Screenshot (2)](https://github.com/user-attachments/assets/78ca6014-de3c-4310-84b1-97689f016318)
+Using directives - allows you to use types defined in a namespace without having to specify the full namespace needed of that type, it is a library of definitions that help us when writing the code without having to explain every single step. Sometimes they are not needed and it depends on the things we want to do in the game, either way, the editor will let you know by fading the unneccesary lines or underlining the codes missing the directive.
+Class definition - this classifies the project and the project we are working on
+Functions- The flow of our game depends on which of these areas we want to put our code in. Do we want a code to be updated in the first frame  (void Start) or do we want the program to refresh its code each frame (void Update). If the answer is neither, or if  we want it to be updated at a specific time, then we create a separate void for it, but later about that!
 
-This is what will be shown, when the line is not needed for the code to run
 
 
 
