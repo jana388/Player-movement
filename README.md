@@ -144,9 +144,13 @@ we can also delete the two upper lines because they will not be needed in the sc
 
 Every line of code ends with the semicolon
 public is all lower case, and KeyCode is with an uppercase K and C.
-Save with control S to save and go back to Unity.
-public is with a lowercase 
+Save with control or command S to save and go back to Unity.
 
+Now with the player selected, you will find some new fields in the scripts component that is attached to the player.
+
+![Capture4](https://github.com/user-attachments/assets/4414e5f1-ea6d-47d0-a5c0-0f08b3e569eb)
+
+They can be visible in the inspector because we set them to public. This makes it more simple for us because we can always adjust this and play with it!
 
 
 
