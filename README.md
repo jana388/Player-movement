@@ -138,8 +138,14 @@ Functions- The flow of our game depends on which of these areas we want to put o
 it is time to put a first line of code in the script.
 ![Capture2 (2)](https://github.com/user-attachments/assets/b230e7c7-c14c-4b4d-b459-08e6ffc46c71)
 This will generate speed for the player. 
-we can also delete the two upper lines because they will not be needed in the script.
+we can also delete the two upper lines because they will not be needed in the script. Then we add these two lines
 
+![Capture3](https://github.com/user-attachments/assets/a91ece47-45d0-4f6c-b90e-cb358e9083b1)
+
+Every line of code ends with the semicolon
+public is all lower case, and KeyCode is with an uppercase K and C.
+Save with control S to save and go back to Unity.
+public is with a lowercase 
 
 
 
