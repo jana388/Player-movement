@@ -135,6 +135,10 @@ Using directives - allows you to use types defined in a namespace without having
 Class definition - this classifies the project and the project we are working on
 Functions- The flow of our game depends on which of these areas we want to put our code in. Do we want a code to be updated in the first frame  (void Start) or do we want the program to refresh its code each frame (void Update). If the answer is neither, or if  we want it to be updated at a specific time, then we create a separate void for it, but later about that!
 
+it is time to put a first line of code in the script.
+![Capture2 (2)](https://github.com/user-attachments/assets/b230e7c7-c14c-4b4d-b459-08e6ffc46c71)
+This will generate speed for the player. 
+we can also delete the two upper lines because they will not be needed in the script.
 
 
 
