@@ -97,8 +97,14 @@ You can add it by left clicking on the add component option and type in RigidBod
 ![Capture5](https://github.com/user-attachments/assets/0126744c-3428-4f84-8c90-3275426d6ea9)
 
 This is what the Rigidbody looks like! We will leave all the options as they are. 
+If we press play now, the palyer will start falling down slowly, since we added some physics to it. To avoid this from happening, we are going to add a **plane** so our cube will have something to stand on!
+To add a plane, go to **Hierarchy**, right click on the gray area, choose a 3D object and click on the plane!
 
-![Capture5](https://github.com/user-attachments/assets/60330d2d-e15a-4c18-a193-ad0df41784fd)
+![Screenshot (10)](https://github.com/user-attachments/assets/747890d6-7ca3-4403-aa91-ea1255f6f9d3)
+
+There we have it. Just place it directly below the cube so they do not collide with each other.
+
+
 
 After adding this, we will add another component called C# script.
 
