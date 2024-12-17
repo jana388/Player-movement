@@ -91,7 +91,17 @@ Inspector is used for modifying anything to the object, some of the exaples are:
 - Adding materials
 - Adding components like colliders , physics and most importantly C# scripts
 
-We  will add the C# script to the player now, if you understood all the steps until now, you are ready for our next step!
+The first thing we will add is the RigidBody. This component adds physics to the player. It will enable our player to move.
+You can add it by left clicking on the add component option and type in RigidBody.
+
+![Capture5](https://github.com/user-attachments/assets/0126744c-3428-4f84-8c90-3275426d6ea9)
+
+This is what the Rigidbody looks like! We will leave all the options as they are. 
+
+![Capture5](https://github.com/user-attachments/assets/60330d2d-e15a-4c18-a193-ad0df41784fd)
+
+After adding this, we will add another component called C# script.
+
 
 
 ## Making the script
@@ -180,6 +190,45 @@ For this we will go to the Update method and create a bool for the input.
 we will make two bools, one for the right and one for the left control.
 
 ![Capture8](https://github.com/user-attachments/assets/581368f0-4421-4424-9402-be9a52f686d3)
+
+If we go back to Unity and want to move the player left and right, we can see that the cube is moving on the Z axis- it changes value in the bracket from - (left) to + (right)
+
+
+![Capture1](https://github.com/user-attachments/assets/518b38db-5a3d-4880-91d6-54afec30a752)
+
+Having this in mind, if we go back to Unity and we add an if statement
+
+![Capture2](https://github.com/user-attachments/assets/834a030f-68bf-465f-8c43-9540319b76a1)
+If the pressedRight parethensis is right or if we press the button for the right side movement (which we set to key D), we will set the velocity to move in the positive Z direction.
+- Vector3 stands for a position in 3D space
+- forward means that we are moving on the Z axis
+
+We are going to dp the same thing for the left side movement
+
+![Capture3](https://github.com/user-attachments/assets/7e03c68f-e1b1-4e33-9c80-4c34956dd33a)
+
+The only difference is that we have put Vector3.back
+We did this because when we press the A key, we want the cube to translate to a negative direction of the Z axis. 
+Note that Vector3.forward and Vector3.back only work as a tandem. If you use one of them independetly, it is not going to work.
+
+The next thing we want to add to this is an if statement if none of these buttons are held, what is the player going to do.
+![Capture4](https://github.com/user-attachments/assets/63ad10e2-d0bb-4c16-b5d2-1e505bd53fe8)
+
+We also put this in the update void below the previous if statement. This if statement means that if we do not hold the D and A key, the player will stop moving.
+You might be wondering what the new characters do in this code.
+- The exclamation mark before the pressedRight and pressedLeft is the negation. It means "not" as in !True = Wrong.
+- The && stands Conditional logical AND operator. This operator checks if both conditions are true for the if statement to return true. So for instance, my script if we do not press either of the keys, the player is not going to move.
+
+So now  our code is able to understand our mechanic: if we press the D key, our player is going to move to the right on the Z axis,if we press the A key, our player is going to move to the left. If we do not press any button, our player will stop its movement and remain where it is. 
+
+This is all you need to do make your character move. You can save the script and go back to Unity.
+
+
+
+
+
+
+
 
 
 
