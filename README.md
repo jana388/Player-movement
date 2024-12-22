@@ -1,7 +1,7 @@
 # Player-movement
 Tutorial for the player movement
 In this tutorial I will teach you how to move your player on X axis (left and right) with any type of input on the key.
-This code is written in C# and it is suitable for both 2D and 3D game
+This code is written in C# and it is suitable for a 3D game
 
 ## Prerequisites
 Although this tutorial is beginner friendly, there are some prerequisites to complete this without getting confused mid way through.
